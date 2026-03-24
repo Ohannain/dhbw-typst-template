@@ -1,13 +1,14 @@
 [package]
-name = "Modern DHBW"
+name = "stylized-dhbw"
 version = "1.0.0"
 entrypoint = "lib.typ"
-authors = [ "Finn Hannon" ]
+authors = [ "Finn Hannon <@Ohannain>" ]
 license = "MIT"
-description = "Unofficial, modern and minimalist template for use at DHBW"
-repository = "https://github.com/ohannain/modern-dhbw-template"
-keywords = [ "dhbw", "thesis" ]
+description = "Unofficial, modern, simplistic and stylized template for use at DHBW."
+repository = "https://github.com/Ohannain/dhbw-typst-template"
+keywords = [ "dhbw", "thesis", "duale hochschule baden-württemberg" ]
 categories = [ "paper", "thesis", "report" ]
+disciplines = [ "computer-science", "engineering" ]
 
 [template]
 path = "template"
