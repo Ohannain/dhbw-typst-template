@@ -1,0 +1,15 @@
+[package]
+name = "Modern DHBW"
+version = "1.0.0"
+entrypoint = "lib.typ"
+authors = [ "Finn Hannon" ]
+license = "MIT"
+description = "Unofficial, modern and minimalist template for use at DHBW"
+repository = "https://github.com/ohannain/modern-dhbw-template"
+keywords = [ "dhbw", "thesis" ]
+categories = [ "paper", "thesis", "report" ]
+
+[template]
+path = "template"
+entrypoint = "main.typ"
+thumbnail = "thumbnail.png"

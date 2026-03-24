@@ -1,0 +1,34 @@
+CODEBLOCK: Codeblock
+TABLE: Table
+IMAGE: Figure
+DECLARATION_AUTHORSHIP_23_TITLE: Declaration
+DECLARATION_AUTHORSHIP_24_TITLE: Declaration of Authorship 
+DECLARATION_AUTHORSHIP_23: |
+    I hereby assure that my {type} titled: "{title}" was independently written by me and no other sources and aids than those indicated were used. I also assure that the electronically submitted version matches the printed version.
+DECLARATION_AUTHORSHIP_24: |
+    I hereby assure that the submitted work was independently written by me and no other sources and aids than those indicated were used and that his work has not been submitted for any other grading with the same or comparable contents and that it has not yet been publicized. Furthermore, I assure that the electronically submitted version matches the printed copy.
+LOCATION: Location
+DATE: Date
+SIGNED_BY: Signed by
+STUDENT_RESEARCH_PROJECT: student research project
+PROJECT_REPORT: project report
+BACHELORS_THESIS: bachelor's thesis
+MASTERS_THESIS: master's thesis
+SIGNATURE: Signature
+NON_DISCLOSURE_NOTICE_TITLE: Non-disclosure notice
+NON_DISCLOSURE_NOTICE: |
+    The content of this work, in parts or as a whole, may not be made accesible to a person outside the grading process and evaluation procedure, unless otherwise approved by the cooperating partner.
+PREAMBLE: Preamble
+ABSTRACT: Abstract
+LOGO_ALT_TEXT: Logo of the Cooperative State University Baden-Wuerttemberg
+LIST_OF_ABBREVIATIONS: List of Abbreviations
+LIST_OF_CODEBLOCKS: List of Codeblocks
+LIST_OF_TABLES: List of Tables
+LIST_OF_FIGURES: List of Figures
+LIST_OF_SOURCES: Bibliography
+LIST_OF_CONTENTS: Table of Contents
+CLASS: Class
+SUBMISSION_DATE: Submission 
+ADVISOR: Advisor
+SUPERVISOR: Supervisor
+CONFIDENTIAL: confidential

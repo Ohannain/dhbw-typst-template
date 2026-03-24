@@ -1,0 +1,6 @@
+#let rot = rgb(226, 0, 26)
+#let weiß = rgb(255, 255, 255)
+#let grau = rgb(43, 43, 43)
+#let dunkelgrau = rgb(38, 38, 38)
+#let blaugrau100 = rgb(92, 105, 113)
+#let schwarz = rgb(0, 0, 0)

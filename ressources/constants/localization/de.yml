@@ -1,0 +1,34 @@
+CODEBLOCK: Programmblock
+TABLE: Tabelle
+IMAGE: Abbildung
+DECLARATION_AUTHORSHIP_23_TITLE: Erklärung
+DECLARATION_AUTHORSHIP_24_TITLE: Ehrenwörtliche Erklärung
+DECLARATION_AUTHORSHIP_23: |
+    Ich versichere hiermit, dass ich meine {type} mit dem Thema: "{title}" selbstständig verfasst und keine anderen als die angegebenen Quellen und Hilfsmittel benutzt habe. Ich versichere zudem, dass die eingereichte elektronische Fassung mit der gedruckten Fassung ubereinstimmt.
+DECLARATION_AUTHORSHIP_24: |
+    Ich versichere hiermit, dass ich die vorliegende Arbeit selbstständig verfasst und keine anderen als die angegebenen Quellen und Hilfsmittel verwendet habe und diese Arbeit bei keiner anderen Prüfung mit gleichem oder vergleichbarem Inhalt vorgelegt habe und diese bislang nicht veröffentlicht wurde. Des Weiteren versichere ich, dass die eingereichte elektronische Fassung mit der gedruckten Ausfertigung übereinstimmt. 
+LOCATION: Ort
+DATE: Datum
+SIGNED_BY: Unterschrift von
+STUDENT_RESEARCH_PROJECT: Studienarbeit
+PROJECT_REPORT: Projektarbeit
+BACHELORS_THESIS: Bachelorarbeit
+MASTERS_THESIS: Masterarbeit
+SIGNATURE: Unterschrift
+NON_DISCLOSURE_NOTICE_TITLE: Sperrvermerk
+NON_DISCLOSURE_NOTICE: |
+    Der Inhalt dieser Arbeit darf weder als Ganzes noch in Auszügen Personen außerhalb des Prüfungsprozesses und des Evaluationsverfahren zugänglich gemacht werden, sofern keine anderslautende Genehmigung des Dualen Partners vorliegt.
+PREAMBLE: Vorwort
+ABSTRACT: Auszug
+LOGO_ALT_TEXT: Logo der Dualen Hochschule Baden-Württemberg
+LIST_OF_ABBREVIATIONS: Abkürzungsverzeichnis
+LIST_OF_CODEBLOCKS: Programmcodeverzeichnis
+LIST_OF_TABLES: Tabellenverzeichnis
+LIST_OF_FIGURES: Abbildungsverzeichnis
+LIST_OF_SOURCES: Literaturverzeichnis
+LIST_OF_CONTENTS: Inhaltsverzeichnis
+CLASS: Kurs
+SUBMISSION_DATE: Abgabedatum
+ADVISOR: Betreuer
+SUPERVISOR: Betrieblicher Betreuer
+CONFIDENTIAL: vertraulich
