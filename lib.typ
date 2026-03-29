@@ -153,8 +153,9 @@
   }
 
   set list(
-    marker: [
-      #align( horizon )[
+    marker: 
+    box(height: 0.75em)[
+        #align( horizon )[
         #rect(width: 0.35em, height: 0.35em, stroke: none, fill: rot)
       ]
     ]
