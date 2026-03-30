@@ -153,11 +153,15 @@
   }
 
   set list(
-    marker: [
-      #align( horizon )[
-        #rect(width: 0.35em, height: 0.35em, stroke: none, fill: rot)
+    marker: context {
+      let h = measure([H]).height
+      
+      box(height: h)[
+        #align(horizon)[
+          #rect(width: 0.35em, height: 0.35em, stroke: none, fill: rot)
+        ]
       ]
-    ]
+    }
   )
 
   set enum(numbering: n => {
